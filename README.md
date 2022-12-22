@@ -1,10 +1,10 @@
 <table align=“center” width=“max”>
     <tr>
         <td>
-            <img src=“/metrics.svg” alt=“Metrics” width=“400”>
+            <img src=“metrics.svg” alt=“Metrics” width=“400”>
         </td>
         <td>
-            <img src=“/metrics.danilio.svg” alt=“Metrics” width=“400">
+            <img src=“metrics.danilio.svg” alt=“Metrics” width=“400">
         </td>
     </tr>
     <tr>
