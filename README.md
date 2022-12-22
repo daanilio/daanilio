@@ -4,14 +4,7 @@
             <img src=“metrics.svg” alt=“Metrics” width=“400”>
         </td>
         <td>
-            <img src=“metrics.danilio.svg” alt=“Metrics” width=“400">
-        </td>
-    </tr>
-    <tr>
-        <td colspan=“2”>
-            <div align=“center”>
-                <img src=“/metrics.ani.svg” alt=“Metrics” width=“max”>
-            </div
+            <img src=“calender.svg” alt=“Metrics” width=“400">
         </td>
     </tr>
 </table>
