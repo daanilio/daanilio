@@ -16,4 +16,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_indepth: yes
-          commits_authoring: firstname lastname, username, username@users.noreply.github.com
+          commits_authoring: Danilio Veldhoen, FlyingWumpus, 94541665+FlyingWumpus@users.noreply.github.com
