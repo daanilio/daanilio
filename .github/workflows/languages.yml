@@ -1,0 +1,17 @@
+name: languages
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: firstname lastname, username, username@users.noreply.github.com
