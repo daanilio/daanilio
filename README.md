@@ -1,4 +1,4 @@
-<table align=“center" width=“max” border="none">
+<table align=“center" width=“max”>
     <tr>
         <td>
             <img src='/calender.svg' alt=“Calender” width=“400">
